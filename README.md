@@ -1,13 +1,5 @@
 # Styleguide
 
-#### Logo Black
-
-![LogoBlack](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/white-bg.png?raw=true)
-
-#### Logo White
-
-![LogoWhite](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/black-bg.png?raw=true)
-
 #### Font 1
 
 [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue?query=bebas) 
@@ -24,5 +16,13 @@
 
 #### Tertiary Color
 #a2a2a2
+
+#### Logo Black
+
+![LogoBlack](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/white-bg.png?raw=true)
+
+#### Logo White
+
+![LogoWhite](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/black-bg.png?raw=true)
 
 
