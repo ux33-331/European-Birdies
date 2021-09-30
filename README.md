@@ -19,10 +19,10 @@
 
 #### Logo Black
 
-![LogoBlack](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/white-bg.png?raw=true)
+![LogoBlack](https://raw.githubusercontent.com/ux33-331/European-Birdies/914e784c04d3a67b1231ff7accdbecf9cbcb24e2/assets/svg/eb-black-transparent.svg)
 
 #### Logo White
 
-![LogoWhite](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/black-bg.png?raw=true)
+![LogoWhite](https://raw.githubusercontent.com/ux33-331/European-Birdies/914e784c04d3a67b1231ff7accdbecf9cbcb24e2/assets/svg/eb-white-transparent-padding.svg)
 
 
