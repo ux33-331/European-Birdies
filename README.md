@@ -1,19 +1,12 @@
 # Styleguide
 
-Styleguide for European Birdies
-
-# Logo
-
-#### Black
+#### Logo Black
 
 ![LogoBlack](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/white-bg.png?raw=true)
 
-#### White
+#### Logo White
 
 ![LogoWhite](https://github.com/ux33-331/European-Birdies/blob/main/assets/png/black-bg.png?raw=true)
-
-
-# Fonts
 
 #### Font 1
 
@@ -23,16 +16,13 @@ Styleguide for European Birdies
 
 [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto) 
 
+#### Primary Color
+#000000
 
-# Colors
+#### Secondary Color
+#ffffff
 
-#### Primary
-#000
-
-#### Secondary
-#fff
-
-#### Tertiary
+#### Tertiary Color
 #a2a2a2
 
 
