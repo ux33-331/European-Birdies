@@ -28,11 +28,8 @@ Title
 #### Font 3
 
 
-# Color
+# Colors
 
-#### Dark theme
-
-![Darktheme](https://user-images.githubusercontent.com/36674091/111849650-03b5fe80-8906-11eb-8f00-5355fb66efd3.png) <br>
 #000, #fff, #a2a2a2
 
 
